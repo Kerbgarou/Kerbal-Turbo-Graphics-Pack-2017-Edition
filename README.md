@@ -4,7 +4,7 @@ This is my best attempt at that. All of the clouds are hand-made in GIMP to vagu
 
 ## WARNING
 
-Despite what you may assume through facts and logic, EVE-Redux versions, especially for older KSP versions, are incredibly resource intensive... Especially ones which use muiltiple cloud layers.
+Despite what you may assume through facts and logic, non volumetric EVE-Redux, especially versions for older KSP releases, is incredibly resource intensive. **Especially when running configs that have multiple cloud layers per body.**
 
 You probably won't lag very much using this config pack, but if you're on a laptop like me it is definitely going to get very, very hot. Be warned about that.
 
